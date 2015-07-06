@@ -13,3 +13,7 @@ Palindrome are those String whose reverse is equal to original.
 FizzBuzz: Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
 ##Example 5
 Prime number and Erastotenes sieve
+##Example 6
+Write code to sum 2 integer but you cant use a+b method, you have to use either ++ or --. How you will handle negative numbers.
+##Example 7
+Given a text, give the most used words. Order them by frequency and in case of same frequency by alphabetical order. No guava.
